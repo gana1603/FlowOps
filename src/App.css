@@ -1,0 +1,55 @@
+.flowops-home {
+  min-height:100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: #f7f8fa;
+}
+
+.flowops-content {
+  width: 100%;
+  max-width: width 620px;
+  text-align: center;
+}
+
+.flowops-logo {
+  margin-bottom: 20px;
+  color: #1f4e79;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: -1px;
+}
+
+.flowops-content h1 {
+  margin: 0;
+  color: #172033;
+  font-size: 48px;
+  line-height: 1.1;
+  letter-spacing: -1.5px;
+}
+
+.flowops-content p {
+  margin: 20px 0 32px;
+  color: #687386;
+  font-size: 17px;
+  line-height: 1.6;
+}
+
+.flowops-button {
+  border: none;
+  border-radius: 8px;
+  padding: 13px 24px;
+  background: #1f4e79;
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.flowops-button:hover {
+
+  background: #173a5c;
+
+}
